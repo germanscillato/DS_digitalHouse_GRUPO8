@@ -11,7 +11,7 @@ Autores:
 - Mina Federico
 - Scillato German
 
-#Entrega TP n°3 - Curso Data Science DigitalHouse.
+# Entrega TP n°3 - Curso Data Science DigitalHouse.
 
 Dataset de https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
