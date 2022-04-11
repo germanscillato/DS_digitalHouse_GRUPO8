@@ -13,5 +13,14 @@ Autores:
 
 # Entrega TP n°3 - Curso Data Science DigitalHouse.
 
-Dataset de https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+Consignas
+
+https://github.com/IonatanPerez/Curso_DHDS_CN17/blob/907920f005f30df2461391c6db34f024a4e0e385/Workshop%203/Consignas.md
+
+
+Dataset
+
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
+
 
